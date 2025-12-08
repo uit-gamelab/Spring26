@@ -4,7 +4,7 @@ layout: default
 
 ## Course description
 
-The GameLab seminar will again be given Spring 2025! It is a 10 credit course where you will design, develop, and launch your own game. You will learn and explore a combination of valuable topics such as programming, entrepreneurship, game design and development process.
+The GameLab seminar will again be given Spring 2026! It is a 10 credit course where you will design, develop, and launch your own game. You will learn and explore a combination of valuable topics such as programming, entrepreneurship, game design and development process.
 
 Throughout the course we will have go through, and learn, the complete cycle of game development from idea to launch. The course is focused on launching a functioning end product that marries user experience and technology:
 
@@ -15,9 +15,10 @@ Throughout the course we will have go through, and learn, the complete cycle of 
 * **Development**: Implement end to end game features in a time and performance efficient manner with the goal of creating usable and fun experience for the player.  
 * **Business**: Launch the game on the target platforms app store with a clear plan how and why the game will make money in the market.  
 
-For information about the first GameLab: [https://site.uit.no/tromsogamelab/](https://site.uit.no/tromsogamelab/)
-
-For information about the second GameLab: [https://uit-gamelab-s24.github.io/](https://uit-gamelab-s24.github.io/)
+### Previous GameLabs
+* The third GameLab: [https://uit-gamelab.github.io/Spring25/](https://uit-gamelab.github.io/Spring25/)
+* The second GameLab: [https://uit-gamelab-s24.github.io/](https://uit-gamelab-s24.github.io/)
+* The first GameLab: [https://site.uit.no/tromsogamelab/](https://site.uit.no/tromsogamelab/)
 
 Also check out the list of [games and screenshots](https://site.uit.no/tromsogamelab/student-projects/) developed in the first round of the GameLab, and [news with pictures](https://site.uit.no/tromsogamelab/category/news/) from the course.
 
@@ -25,12 +26,12 @@ Also check out the list of [games and screenshots](https://site.uit.no/tromsogam
 
 The course will be given as a master's level course. 
 
-Admission requirements, learning goals, exam information and other administrative information is [on the uit websites](https://uit.no/utdanning/emner/emne?p_document_id=860102). You can also find the course schedule / information about the rooms used for the lecture and group [on timeplan.uit.no](https://timeplan.uit.no/emne_timeplan.php?sem=25v&module=INF-3910-8-1#week=1-25).
+Admission requirements, learning goals, exam information and other administrative information is [on the uit websites](https://uit.no/utdanning/aktivt/emne/INF-3910-8). You can also find the course schedule / information about the rooms used for the lecture and group [on timeplan.uit.no](https://tp.educloud.no/uit/timeplan/timeplan.php?id%5B%5D=INF-3910-8%2C1&type=course&sem=26v&campus=&hide_old=0).
 
 ## Staff and collaborators
 * Andre Henriksen <https://uit.no/ansatte/andre.henriksen> (responsible teacher).
 * Ernie Roby-Tomic (Lecturer).
-* Johan-Niillas Ludviksen Jernsletten (teaching assistant).
+* TBA (Teaching assistant)
 * Ismet Bachtiar (Tvibit).
 * Lars Ailo Bongo (UiT)
 * In collaboration with local game development industry.
@@ -48,10 +49,10 @@ Technologies to be used are up for the students to decide.
 In addition to being evaluated on the successful completion of the game you will be evaluated on the technical design and implementation within chosen technologies. From code patterns, architecture and implementation to database schema and client-werver communications. The evaluation is done in collaboration between representatives of the local game industry and the faculty itself.
 
 ## Tentative lecture plan and course timeline
-* Colloquiums every Tuesday 12:15-14:00 REALF A055, where you can work with your projects.
+* Colloquiums every Thursday 14:15-16:00 REALF A053, where you can work with your projects.
 * Colloquium times will also be used to give shorter lectures
-* GameJam Friday 24.01 to Sunday 26.01.
-* Full day workshop Friday 21.03.
+* GameJam Friday 30.01 to Sunday 01.02.
+* Full day workshop : DATE TBA
 * Some Thursdays will be used for milestone presentations.
 
 **NB**: All lecture titles are tentative 
@@ -86,8 +87,8 @@ In addition to being evaluated on the successful completion of the game you will
 -->
 
 Exam dates:
-* TBA: final delivery of project
-* TBA (planned between 05-08.06.24): oral presentation
+* Monday 01.06: final delivery of project
+* TBA: oral presentations
 
 ## Readings
 
@@ -117,8 +118,10 @@ Submit and present project milestones:
 **Assignment 2:**
 Write a reflection note about the course
 
+<!--
 **Assignment 3: (only for PhD students)**
 Give lecture on a chosen relevant topic to the course students
+-->
 
 <!--
 On 04.02/Milestone #1, we want a presentation from each group. It should be around five minutes (give or take). We will also open for questions after each presentation.
