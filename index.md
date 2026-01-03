@@ -20,8 +20,6 @@ Throughout the course we will have go through, and learn, the complete cycle of 
 * The second GameLab: [https://uit-gamelab-s24.github.io/](https://uit-gamelab-s24.github.io/)
 * The first GameLab: [https://site.uit.no/tromsogamelab/](https://site.uit.no/tromsogamelab/)
 
-Also check out the list of [games and screenshots](https://site.uit.no/tromsogamelab/student-projects/) developed in the first round of the GameLab, and [news with pictures](https://site.uit.no/tromsogamelab/category/news/) from the course.
-
 ## Administrative information
 
 The course will be given as a master's level course. 
@@ -36,46 +34,45 @@ Admission requirements, learning goals, exam information and other administrativ
 * Lars Ailo Bongo (UiT)
 * In collaboration with local game development industry.
 
-<!---
-Add logos of participating companies here
--->
 
 ## Project and evaluation
 
-The course has a very practical and hands-on approach. The primary evaluation criteria is the successful completion and launch of a  game. It is equally important that the choices related to featureset, technologies and programming languages are consistent with the user experience and usage patterns of the game itself.
+The course has a very practical and hands-on approach. The primary evaluation criteria is the successful completion and launch of a  game. It is equally important that the choices related to featureset, technologies and programming languages are consistent with the user experience and usage patterns of the game itself. 
 
-Technologies to be used are up for the students to decide.
+Students decides for them selves which technologies to use.
 
-In addition to being evaluated on the successful completion of the game you will be evaluated on the technical design and implementation within chosen technologies. From code patterns, architecture and implementation to database schema and client-werver communications. The evaluation is done in collaboration between representatives of the local game industry and the faculty itself.
+In addition to being evaluated on the successful completion of the game you will be evaluated on the technical design and implementation within the chosen technologies. From code patterns, architecture and implementation to database schema and client-werver communications. The evaluation is done in collaboration between representatives of the local game industry and the faculty itself.
 
 ## Tentative lecture plan and course timeline
-* Colloquiums every Thursday 14:15-16:00 REALF A053, where you can work with your projects.
-* Colloquium times will also be used to give shorter lectures
-* GameJam Friday 30.01 to Sunday 01.02.
-* Full day workshop : DATE TBA
-* Some Thursdays will be used for milestone presentations.
+* Colloquiums every Thursday 14:15-16:00 REALF A053, where you can work with your projects. A TA will be available. 
+* Colloquium times will also be used to give shorter talkes/lectures.
+* GameJam Friday 30/1 to Sunday 1/2.
+* Half or full day workshop : Friday 13/3
+* Some [day TBA] will be used for milestone presentations.
 
 **NB**: All lecture titles are tentative 
 
-| Lecture/ seminar / event | Date      			| Location 			| Lecturer	  			| Subject  					 |
-|--------------------------|-------------------	|-------------------|-----------------------|----------------------------|
-| Kick-off                 | Tuesday 14/1 12:15	| MH1 Aud 3     	| André             	| Kick-off                   |
-| Lecture 1                | Tuesday 14/1 12:15	| MH1 Aud 3     	| Kim-Daniel & Ismet 	| Game development introduction & Concept development|
-| Lecture 2                | Tuesday 14/1 13:15	| MH1 Aud 3     	| Ellen Landefilm    	| Immersive Storytelling |
-| Lecture 3                | Tuesday 21/1 12:15	| REALF A055    	| Henriette             | Game Jam warm-up |
-| Game Jam                 | 24.01-26.01 		| REALF A010/A036/B203| Michael David Elliott and  Sebastian Røed Mangseth | Game Jam |
-| Lecture 4                | Tuesday 28.01 12:15| REALF A055    	| Cris Kevin        	| AI & game development | 
-| Lecture 5                | Tuesday 28.01 12:15| REALF A055    	| Kim Ruben      		| How to choose game technology |
-| Lecture 6                | Tuesday 04.02 12:15| REALF A055    	| Ernie & Kim Ruben 	| **Form teams** & Introduction to Unreal Engine 5 |
-| No colloquiums           | Tuesday 11.02		|     				      |        				| TEKDagen 			|
-| Lecture 7                | Tuesday 18.02    | REALF A055   		| Kim Ruben				| Game assests 		|
-| Lecture 8                | Tuesday 25.02		| REALF A055    	| Ernie & Kim Ruben     | Hands-on Unreal Engine 5 |
-| Lecture 9				         | Tuesday 04.03		| REALF A055/Teams	| Alecander Espeseth	| Adaptiv musikk i spill |
-| Lecture 10               | Friday 21.03 		| Teknobygget, 2.019| Anders Lauridsen		| From Pitch to Publish: The Road to Launching an Indie Game |
-| Lecture 11               | Friday 21.03 		| Teknobygget, 2.019| Anders Lauridsen    | Product Development in an Indie Game Context |
-| Lecture 11               | Friday 21.03 		| Teknobygget, 2.020| Anders Lauridsen    | Speed pitching |
-| Lecture 12               | Tuesday 29.04		|  REALF A055/Teams | Anna Dranovska   		| Funding opportunities for students |
-
+| Lecture/ seminar / event | Date      			            | Location 			          | Lecturer	  			                    | Subject  					         |
+|--------------------------|----------------------------|-------------------------|---------------------------------------|----------------------------|
+| Kick-off                 | Thursday 15/1, 12:15-16:00	| TBA     	              | André, Ernie, Ismet, Kim-Daniel     	| Kick-off, Game development introduction & Concept development |
+| Lecture X                | Thursday 22/1, 14:15-16:00	| REALF A053              | Ernie 	                              | TBA             |
+| Lecture x                | Thursday 29/1, 14:15-16:00 | REALF A053    	        | Henriette                             | Game Jam warm-up |
+| Game Jam                 | Friday 30/1 - Sunday 1/2   | REALF A010/A036/B203    | Michael David Elliott and  Sebastian Røed Mangseth | Game Jam |
+| Lecture x                | Thursday 5/2, 14:15-16:00  | REALF A053    	        | Cris Kevin        	                  | **Form teams** & AI & game development | 
+| Lecture x                | Thursday 19/2, 14:15-16:00 | REALF A053    	        | Kim Ruben      		                    | How to choose game technology |
+| Lecture x                | Thursday 26/2, 14:15-16:0  | REALF A053    	        | Ernie & Kim Ruben 	                  | Introduction to Unreal Engine 5 |
+| Lecture x                | Thursday 5/3,              | REALF A053   		        | Kim Ruben			                        | Game assests 		|
+| Lecture x                | Thursday 12/3,		          | REALF A053    	        | Ernie & Kim Ruben                     | Hands-on Unreal Engine 5 |
+| Lecture x                | Thursday 13/3,**08:15-16:00** | TBA    	            | Ernie & Kim Ruben                     | Hands-on Unreal Engine 5 |
+| Lecture x			           | Thursday 19/3,	14:15-16:00	 | REALF A053	            | 	|  |
+| Lecture x			           | Thursday 26/3,	14:15-16:00	 | REALF A053	            | 	|  |
+| Lecture x			           | Thursday 9/4,	14:15-16:00	 | REALF A053	            | 	|  |
+| Lecture x			           | Thursday 16/4,	14:15-16:00	 | REALF A053	            | 	|  |
+| Lecture x			           | Thursday 23/4,	14:15-16:00	 | REALF A053	            | 	|  |
+| Lecture x			           | Thursday 30/4,	14:15-16:00	 | REALF A053	            | 	|  |
+| Lecture x			           | Thursday 7/5,	14:15-16:00	 | REALF A053	            |  Anna Dranovska   		| Funding opportunities for students |
+| Lecture x			           | Thursday 21/5,	14:15-16:00	 | REALF A053	            | 	|  |
+| Deadline exam            | Monday 1/6, 14:00	         | REALF A053             | 
 
 <!--
 
@@ -108,15 +105,16 @@ Submit and present project milestones:
 
 | Milestone             | Deadline (submit)   	| Presentation | Description |
 |-----------------------|-----------------------|--------------|-------------|
-| 1. High-level concept | Tuesday 11.02 		| Thursday 13.02, TEO-H6| General overall direction. Approx. 2-page report. |
-| 2. Design             | Tuesday 25.02 		| Thursday 27.02, TEO-H6 | Game and technology defined.  |
-| 3. Prototype          | Tuesday 18.03 		| Thursday 20.03, ILP-1.007 | Playable game |
-| 4. Alpha              | Tuesday 23.04 		| Thursday 24.04, ILP-1.043 | Feature complete | 
-| 5. Beta               | Tuesday 20.05		 	| Thursday 22.05, TBA | Content complete. Submit | 
-| 6. Live               | Wednesday 04.06 	| 10.06 and 11.06 (Exam)   | Game launched! |
+| 1. High-level concept | Thursday 5/2 		  | Friday 13/2, TEO-H6/Movie theather| General overall direction |
+| 2. Design             | Thursday 26/2 		| Friday 27/2, TEO-H6/Movie theather | Game and technology defined  |
+| 3. Prototype          | Thursday 19/3 		| Friday 20/3, TBA /Class room| Playable game |
+| 4. Alpha              | Thursday 23/4 		| Friday 24/4, TBA /Class room | Feature complete | 
+| 5. Beta               | Thursday 21/5		 	| Friday 22/5, TBA /Class room| Content complete | 
+| 6. Live               | Monday 1/6 	      | Exam           | Game launched! |
 
 **Assignment 2:**
-Write a reflection note about the course
+TBA
+<!--Write a reflection note about the course-->
 
 <!--
 **Assignment 3: (only for PhD students)**
@@ -128,7 +126,7 @@ On 04.02/Milestone #1, we want a presentation from each group. It should be arou
 
 The presentation topic is "High Concept" and should give an overall introduction to what you want to build, why your game is going to be worth playing and key elements in the design and revenue model.
 
-In our discord-server #lectures channel (https://discord.gg/Jv5mcvuWHz) there is a `lecture-starting-b.pdf` that can serve as your guide for what content to include in your presentation, as well as other examples from previous students. You don't have to include all the suggested content from `lecture-starting-b.pdf`.
+In our discord-server #lectures channel (TBA) there is a `lecture-starting-b.pdf` that can serve as your guide for what content to include in your presentation, as well as other examples from previous students. You don't have to include all the suggested content from `lecture-starting-b.pdf`.
 
 -->
 
