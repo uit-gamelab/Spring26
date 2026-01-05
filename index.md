@@ -106,7 +106,7 @@ Submit and present project milestones:
 | Milestone             | Deadline (submit)   	| Presentation | Description |
 |-----------------------|-----------------------|--------------|-------------|
 | 1. High-level concept | Thursday 5/2 		  | Friday 13/2, TEO-H6/Movie theather| General overall direction |
-| 2. Design             | Thursday 26/2 		| Friday 27/2, TEO-H6/Movie theather | Game and technology defined  |
+| 2. Design             | Thursday 19/2 		| Friday 20/2, TEO-H6/Movie theather | Game and technology defined  |
 | 3. Prototype          | Thursday 19/3 		| Friday 20/3, TBA /Class room| Playable game |
 | 4. Alpha              | Thursday 23/4 		| Friday 24/4, TBA /Class room | Feature complete | 
 | 5. Beta               | Thursday 21/5		 	| Friday 22/5, TBA /Class room| Content complete | 
