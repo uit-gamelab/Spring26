@@ -55,24 +55,24 @@ In addition to being evaluated on the successful completion of the game you will
 | Lecture/ seminar / event | Date      			            | Location 			          | Lecturer	  			                    | Subject  					         |
 |--------------------------|----------------------------|-------------------------|---------------------------------------|----------------------------|
 | Kick-off                 | Thursday 15/1, 12:15-16:00	| TBA     	              | André, Ernie, Kim-Daniel     	        | Kick-off, Game development introduction & Concept development |
-| Lecture X                | Thursday 22/1, 14:15-16:00	| REALF A053              | Henriette 	                          | Game Jams/Game Ideation             |
-| Lecture x                | Thursday 29/1, 14:15-16:00 | REALF A053    	        | Cris Kevin Bjorndal                   | Generative AI in Game Development |
+| Lecture 1                | Thursday 22/1, 14:15-16:00	| REALF A053              | Henriette 	                          | Game Jams/Game Ideation             |
+| Lecture 2                | Thursday 29/1, 14:15-16:00 | REALF A053    	        | Cris Kevin Bjorndal                   | Generative AI in Game Development |
 | Game Jam                 | Friday 30/1 - Sunday 1/2   | REALF A010/A036/B203    | Michael David Elliott and  Sebastian Røed Mangseth | Game Jam |
-| Lecture x                | Thursday 5/2, 14:15-16:00  | REALF A053    	        |        	                              | Milestone 1 deadline |
-| Lecture x                | Thursday 12/2, 14:15-16:00 | REALF A053    	        | Ernie Roby-Tomic       	              | Game Technologies |
-| Lecture x                | Thursday 19/2, 14:15-16:00 | REALF A053    	        |       		                            | Milestone 2 deadline|
-| Lecture x                | Thursday 26/2, 14:15-16:00  | REALF A053    	        |  	                                    |    |
-| Lecture x                | Thursday 5/3, 14:15-16:00   | REALF A053   		      | 			                                |  		|
-| Lecture x                | Thursday 12/3,	14:15-16:00	 | REALF A053    	        | Ernie Roby-Tomic                      | Game assests |
-| Lecture x                | Thursday 13/3,**08:15-16:00** | TEKNOBYGGET 2.019    | Full-day workshop                     |  |
-| Lecture x			           | Thursday 19/3,	14:15-16:00	 | REALF A053	            | 	                                    | Milestone 3 deadline |
-| Lecture x			           | Thursday 26/3,	14:15-16:00	 | REALF A053	            | Henriette 	                          | Juicing |
-| Lecture x			           | Thursday 9/4,	14:15-16:00	 | REALF A053/**TEAMS**	  | Alexander Espeseth	                  | Funding and Launching your game |
-| Lecture x			           | Thursday 16/4,	14:15-16:00	 | REALF A053/**TEAMS**	  | Alexander Espeseth	                  | Sound design |
-| Lecture x			           | Thursday 23/4,	14:15-16:00	 | REALF A053	            | 	                                    | Milestone 4 deadline |
-| Lecture x			           | Thursday 30/4,	14:15-16:00	 | REALF A053	            | Anna Dranovska	                      | Funding opportunities for students  |
-| Lecture x			           | Thursday 7/5,	14:15-16:00	 | REALF A053	            |     		                              |  |
-| Lecture x			           | Thursday 21/5,	14:15-16:00	 | REALF A053	            | 	                                    | Milestone 5 deadline |
+| Lecture 3                | Thursday 5/2, 14:15-16:00  | REALF A053    	        | Ernie Roby-Tomic       	              | Game Technologies. **Milestone 1 deadline** |
+|                           | Thursday 12/2, 14:15-16:00 | REALF A053    	        |        	                              |  |
+|                           | Thursday 19/2, 14:15-16:00 | REALF A053    	        |       		                            | **Milestone 2 deadline** |
+|                           | Thursday 26/2, 14:15-16:00  | REALF A053    	        |  	                                    |    |
+|                           | Thursday 5/3, 14:15-16:00   | REALF A053   		      | 			                                |  		|
+| Lecture 4                | Thursday 12/3,	14:15-16:00	 | REALF A053    	        | Ernie Roby-Tomic                      | Game assests |
+|                           | Thursday 13/3,**08:15-16:00** | TEKNOBYGGET 2.019    | Full-day workshop                     |  |
+| 			                     | Thursday 19/3,	14:15-16:00	 | REALF A053	            | 	                                    | **Milestone 3 deadline** |
+| Lecture 5			           | Thursday 26/3,	14:15-16:00	 | REALF A053	            | Henriette 	                          | Juicing |
+| Lecture 6			           | Thursday 9/4,	14:15-16:00	 | REALF A053/**TEAMS**	  | Alexander Espeseth	                  | Funding and Launching your game |
+| Lecture 7			           | Thursday 16/4,	14:15-16:00	 | REALF A053/**TEAMS**	  | Alexander Espeseth	                  | Sound design |
+| 			                     | Thursday 23/4,	14:15-16:00	 | REALF A053	            | 	                                    | **Milestone 4 deadline** |
+| Lecture 8			           | Thursday 30/4,	14:15-16:00	 | REALF A053	            | Anna Dranovska	                      | Funding opportunities for students  |
+| 			                     | Thursday 7/5,	14:15-16:00	 | REALF A053	            |     		                              |  |
+| 			                   | Thursday 21/5,	14:15-16:00	 | REALF A053	            | 	                                    | **Milestone 5 deadline** |
 | Deadline exam            | Monday 1/6, 14:00	         | REALF A053             |   |
 
 <!--
