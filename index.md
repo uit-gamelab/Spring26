@@ -29,7 +29,7 @@ Admission requirements, learning goals, exam information and other administrativ
 ## Staff and collaborators
 * Andre Henriksen <https://uit.no/ansatte/andre.henriksen> (responsible teacher).
 * Ernie Roby-Tomic (Lecturer).
-* TBA (Teaching assistant)
+* Sindre Frantzen Dalvik (Teaching assistant)
 * Ismet Bachtiar (Tvibit).
 * Lars Ailo Bongo (UiT)
 * In collaboration with local game development industry.
@@ -54,24 +54,25 @@ In addition to being evaluated on the successful completion of the game you will
 
 | Lecture/ seminar / event | Date      			            | Location 			          | Lecturer	  			                    | Subject  					         |
 |--------------------------|----------------------------|-------------------------|---------------------------------------|----------------------------|
-| Kick-off                 | Thursday 15/1, 12:15-16:00	| TBA     	              | André, Ernie, Ismet, Kim-Daniel     	| Kick-off, Game development introduction & Concept development |
-| Lecture X                | Thursday 22/1, 14:15-16:00	| REALF A053              | Ernie 	                              | TBA             |
-| Lecture x                | Thursday 29/1, 14:15-16:00 | REALF A053    	        | Henriette                             | Game Jam warm-up |
+| Kick-off                 | Thursday 15/1, 12:15-16:00	| TBA     	              | André, Ernie, Kim-Daniel     	        | Kick-off, Game development introduction & Concept development |
+| Lecture X                | Thursday 22/1, 14:15-16:00	| REALF A053              | Henriette 	                          | Game Jams/Game Ideation             |
+| Lecture x                | Thursday 29/1, 14:15-16:00 | REALF A053    	        | Cris Kevin Bjorndal                   | Generative AI in Game Development |
 | Game Jam                 | Friday 30/1 - Sunday 1/2   | REALF A010/A036/B203    | Michael David Elliott and  Sebastian Røed Mangseth | Game Jam |
-| Lecture x                | Thursday 5/2, 14:15-16:00  | REALF A053    	        | Cris Kevin        	                  | **Form teams** & AI & game development | 
-| Lecture x                | Thursday 19/2, 14:15-16:00 | REALF A053    	        | Kim Ruben      		                    | How to choose game technology |
-| Lecture x                | Thursday 26/2, 14:15-16:0  | REALF A053    	        | Ernie & Kim Ruben 	                  | Introduction to Unreal Engine 5 |
-| Lecture x                | Thursday 5/3,              | REALF A053   		        | Kim Ruben			                        | Game assests 		|
-| Lecture x                | Thursday 12/3,		          | REALF A053    	        | Ernie & Kim Ruben                     | Hands-on Unreal Engine 5 |
-| Lecture x                | Thursday 13/3,**08:15-16:00** | TBA    	            | Ernie & Kim Ruben                     | Hands-on Unreal Engine 5 |
-| Lecture x			           | Thursday 19/3,	14:15-16:00	 | REALF A053	            | 	|  |
-| Lecture x			           | Thursday 26/3,	14:15-16:00	 | REALF A053	            | 	|  |
-| Lecture x			           | Thursday 9/4,	14:15-16:00	 | REALF A053	            | 	|  |
-| Lecture x			           | Thursday 16/4,	14:15-16:00	 | REALF A053	            | 	|  |
-| Lecture x			           | Thursday 23/4,	14:15-16:00	 | REALF A053	            | 	|  |
-| Lecture x			           | Thursday 30/4,	14:15-16:00	 | REALF A053	            | 	|  |
-| Lecture x			           | Thursday 7/5,	14:15-16:00	 | REALF A053	            |  Anna Dranovska   		| Funding opportunities for students |
-| Lecture x			           | Thursday 21/5,	14:15-16:00	 | REALF A053	            | 	|  |
+| Lecture x                | Thursday 5/2, 14:15-16:00  | REALF A053    	        |        	              | Milestone 1 deadline |
+| Lecture x                | Thursday 12/2, 14:15-16:00 | REALF A053    	        | Ernie Roby-Tomic       	              | Game Technologies |
+| Lecture x                | Thursday 19/2, 14:15-16:00 | REALF A053    	        |       		                            | Milestone 2 deadline|
+| Lecture x                | Thursday 26/2, 14:15-16:00  | REALF A053    	        |  	                  |  |
+| Lecture x                | Thursday 5/3, 14:15-16:00   | REALF A053   		        | 			                        |  		|
+| Lecture x                | Thursday 12/3,	14:15-16:00	 | REALF A053    	        | Ernie Roby-Tomic                     | Game assests |
+| Lecture x                | Thursday 13/3,**08:15-16:00** | TBA    	            | Full-day workshop                    |  |
+| Lecture x			           | Thursday 19/3,	14:15-16:00	 | REALF A053	            | 	| Milestone 3 deadline |
+| Lecture x			           | Thursday 26/3,	14:15-16:00	 | REALF A053	            | Henriette 	| Juicing |
+| Lecture x			           | Thursday 9/4,	14:15-16:00	 | REALF A053/**TEAMS**	            | Alexander Espeseth	| Funding and Launching your game |
+| Lecture x			           | Thursday 16/4,	14:15-16:00	 | REALF A053/**TEAMS**	            | Alexander Espeseth	| Sound design |
+| Lecture x			           | Thursday 23/4,	14:15-16:00	 | REALF A053	            | 	| Milestone 4 deadline |
+| Lecture x			           | Thursday 30/4,	14:15-16:00	 | REALF A053	            | Anna Dranovska	| Funding opportunities for students  |
+| Lecture x			           | Thursday 7/5,	14:15-16:00	 | REALF A053	            |     		|  |
+| Lecture x			           | Thursday 21/5,	14:15-16:00	 | REALF A053	            | 	| Milestone 5 deadline |
 | Deadline exam            | Monday 1/6, 14:00	         | REALF A053             | 
 
 <!--
@@ -105,11 +106,11 @@ Submit and present project milestones:
 
 | Milestone             | Deadline (submit)   	| Presentation | Description |
 |-----------------------|-----------------------|--------------|-------------|
-| 1. High-level concept | Thursday 5/2 		  | Friday 13/2, TEO-H6/Movie theather| General overall direction |
-| 2. Design             | Thursday 19/2 		| Friday 20/2, TEO-H6/Movie theather | Game and technology defined  |
-| 3. Prototype          | Thursday 19/3 		| Friday 20/3, TBA /Class room| Playable game |
-| 4. Alpha              | Thursday 23/4 		| Friday 24/4, TBA /Class room | Feature complete | 
-| 5. Beta               | Thursday 21/5		 	| Friday 22/5, TBA /Class room| Content complete | 
+| 1. High-level concept | Thursday 5/2 		  | TBA, TEO-H6/Movie theather | General overall direction |
+| 2. Design             | Thursday 19/2 		| TBA, TEO-H6/Movie theather | Game and technology defined  |
+| 3. Prototype          | Thursday 19/3 		| Tuesday 24/3, ILP 1.007    | Playable game |
+| 4. Alpha              | Thursday 23/4 		| Tuesday 28/4, ILP 2.072 | Feature complete | 
+| 5. Beta               | Thursday 21/5		 	| Friday 22/5, ILP 1.006| Content complete | 
 | 6. Live               | Monday 1/6 	      | Exam           | Game launched! |
 
 **Assignment 2:**
