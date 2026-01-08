@@ -64,7 +64,7 @@ In addition to being evaluated on the successful completion of the game you will
 | Lecture x                | Thursday 26/2, 14:15-16:00  | REALF A053    	        |  	                  |  |
 | Lecture x                | Thursday 5/3, 14:15-16:00   | REALF A053   		        | 			                        |  		|
 | Lecture x                | Thursday 12/3,	14:15-16:00	 | REALF A053    	        | Ernie Roby-Tomic                     | Game assests |
-| Lecture x                | Thursday 13/3,**08:15-16:00** | TBA    	            | Full-day workshop                    |  |
+| Lecture x                | Thursday 13/3,**08:15-16:00** | TEKNOBYGGET 2.019    	            | Full-day workshop                    |  |
 | Lecture x			           | Thursday 19/3,	14:15-16:00	 | REALF A053	            | 	| Milestone 3 deadline |
 | Lecture x			           | Thursday 26/3,	14:15-16:00	 | REALF A053	            | Henriette 	| Juicing |
 | Lecture x			           | Thursday 9/4,	14:15-16:00	 | REALF A053/**TEAMS**	            | Alexander Espeseth	| Funding and Launching your game |
@@ -106,8 +106,8 @@ Submit and present project milestones:
 
 | Milestone             | Deadline (submit)   	| Presentation | Description |
 |-----------------------|-----------------------|--------------|-------------|
-| 1. High-level concept | Thursday 5/2 		  | TBA, TEO-H6/Movie theather | General overall direction |
-| 2. Design             | Thursday 19/2 		| TBA, TEO-H6/Movie theather | Game and technology defined  |
+| 1. High-level concept | Thursday 5/2 		  | TBA, TEO-H6 6.222/Movie theather | General overall direction |
+| 2. Design             | Thursday 19/2 		| TBA, TEO-H6 6.222/Movie theather | Game and technology defined  |
 | 3. Prototype          | Thursday 19/3 		| Tuesday 24/3, ILP 1.007    | Playable game |
 | 4. Alpha              | Thursday 23/4 		| Tuesday 28/4, ILP 2.072 | Feature complete | 
 | 5. Beta               | Thursday 21/5		 	| Friday 22/5, ILP 1.006| Content complete | 
