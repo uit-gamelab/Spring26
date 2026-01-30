@@ -58,22 +58,26 @@ In addition to being evaluated on the successful completion of the game you will
 | Lecture 1                | Thursday 22/1, 14:15-16:00	| REALF A053              | Henriette Myrlund	                          | Game Jams/Game Ideation             |
 | Lecture 2                | Thursday 29/1, 14:15-16:00 | REALF A053    	        | Cris Kevin Bjørndal                   | Generative AI in Game Development |
 | Game Jam                 | Friday 30/1 - Sunday 1/2   | REALF A010/A036/B203    | Michael David Elliott and  Sebastian Røed Mangseth | Game Jam |
-| Lecture 3                | Thursday 5/2, 14:15-16:00  | REALF A053    	        | Ernie Roby-Tomic       	              | Game Technologies. **Milestone 1 deadline** |
-|                           | Thursday 12/2, 14:15-16:00 | REALF A053    	        |        	                              |      |
-|                           | Thursday 19/2, 14:15-16:00 | REALF A053    	        |       		                            | **Milestone 2 deadline** |
-|                           | Thursday 26/2, 14:15-16:00  | REALF A053    	      |  	                                    |      |
-|                           | Thursday 5/3, 14:15-16:00   | REALF A053   		      | 			                                |  		  |
-| Lecture 4                | Thursday 12/3,	14:15-16:00	 | REALF A053    	        | Ernie Roby-Tomic                      | Game assests |
-|                           | Thursday 13/3,**08:15-16:00** | TEKNOBYGGET 2.019   | Full-day workshop                     |      |
-| 			                     | Thursday 19/3,	14:15-16:00	 | REALF A053	          | 	                                    | **Milestone 3 deadline** |
-| Lecture 5			           | Thursday 26/3,	14:15-16:00	 | REALF A053	            | Henriette Myrlund	                          | Juicing |
+| Lecture 3 & Submission Deadline| Thursday 5/2, 14:15-16:00  | REALF A053    	        | Ernie Roby-Tomic       	              | Game Technologies & **Milestone 1 Submission Deadline** |
+| Presentation 1           | Thursday 12/2, 13:15-16:00 | TEO-H6 6.222/Movie theatre|        	                          | **Milestone 1 Presentation**      |
+| Submission Deadline      | Thursday 19/2, 14:15-16:00 | REALF A053    	        |       		                            | **Milestone 2 Submission Deadline** |
+| Presentation 2           | Friday 20/2, 10:15-13:00   | TEO-H6 6.222/Movie theatre|        	                          | **Milestone 2 Presentation**      |
+|                          | Thursday 26/2, 14:15-16:00  | REALF A053    	      |  	                                    |      |
+|                          | Thursday 5/3, 14:15-16:00   | REALF A053   		      | Ernie Roby-Tomic			                                | Game assests 		  |
+| Lecture 4                | Thursday 12/3,	14:15-16:00	 | REALF A053    	        |                       |   |
+|                          | Thursday 13/3,**08:15-16:00** | TEKNOBYGGET 2.019   | Full-day workshop                     |      |
+| Submission Deadline      | Thursday 19/3,	14:15-16:00	 | REALF A053	            | 	                                    | **Milestone 3 Submission Deadline** |
+| Playtest Presentation 3  | Tuesday 24/3, 09:15-12:00   | ILP 1.007              |                                       | **Milstone 3 Presentation**         |
+| Lecture 5			           | Thursday 26/3,	14:15-16:00	 | REALF A053	            | Henriette Myrlund	                    | Juicing |
 | Lecture 6			           | Thursday 9/4,	14:15-16:00	 | REALF A053/**TEAMS**	  | Alexander Espeseth	                  | Funding and Launching your game |
 | Lecture 7			           | Thursday 16/4,	14:15-16:00	 | REALF A053/**TEAMS**	  | Alexander Espeseth	                  | Sound design |
-| 			                     | Thursday 23/4,	14:15-16:00	 | REALF A053	          | 	                                    | **Milestone 4 deadline** |
+| Submission Deadline      | Thursday 23/4,	14:15-16:00	 | REALF A053	            | 	                                    | **Milestone 4 Deadline** |
+| Playtest Presentation 4  | Tuesday 28/4, 09:15-12:00   | ILP 2.072              |                                       | **Milestone 4 Presentation** |
 | Lecture 8			           | Thursday 30/4,	14:15-16:00	 | REALF A053	            | Anna Dranovska	                      | Funding opportunities for students  |
-| 			                     | Thursday 7/5,	14:15-16:00	 | REALF A053	          |     		                              |  |
-| 			                   | Thursday 21/5,	14:15-16:00	 | REALF A053	            | 	                                    | **Milestone 5 deadline** |
-| Deadline exam            | Monday 1/6, 14:00	         | REALF A053             |   |
+| 			                   | Thursday 7/5,	14:15-16:00  | REALF A053	            |     		                              |  |
+| Submission Deadline      | Thursday 21/5,	14:15-16:00	 | REALF A053	            | 	                                    | **Milestone 5 deadline** |
+| Playtest Presentation 5  | Friday 22/5, 09:00-12:00    | ILP 1.006              |                                       | **Milstone 5 Presentation** |
+| Deadline exam            | Monday 1/6, 14:00	         | Exam             |   |
 
 <!--
 
@@ -106,8 +110,8 @@ Submit and present project milestones:
 
 | Milestone             | Deadline (submit)   	| Presentation | Description |
 |-----------------------|-----------------------|--------------|-------------|
-| 1. High-level concept | Thursday 5/2 		  | Thursday 12/2, TEO-H6 6.222/Movie theather         | General overall direction |
-| 2. Design             | Thursday 19/2 		| Friday 20/2, TEO-H6 6.222/Movie theather | Game and technology defined  |
+| 1. High-level concept | Thursday 5/2 		  | Thursday 12/2, TEO-H6 6.222/Movie theatre         | General overall direction |
+| 2. Design             | Thursday 19/2 		| Friday 20/2, TEO-H6 6.222/Movie theatre | Game and technology defined  |
 | 3. Prototype          | Thursday 19/3 		| Tuesday 24/3, ILP 1.007                  | Playable game |
 | 4. Alpha              | Thursday 23/4 		| Tuesday 28/4, ILP 2.072                  | Feature complete | 
 | 5. Beta               | Thursday 21/5		 	| Friday 22/5, ILP 1.006                   |      Content complete | 
