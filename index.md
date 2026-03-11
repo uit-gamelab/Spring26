@@ -63,8 +63,8 @@ In addition to being evaluated on the successful completion of the game you will
 | Submission Deadline      | Thursday 19/2, 14:15-16:00 | REALF A053    	        |       		                            | **Milestone 2 Submission Deadline** |
 | Presentation 2           | Friday 20/2, 10:15-13:00   | TEO-H6 6.222/Movie theatre|        	                          | **Milestone 2 Presentation**      |
 |                          | Thursday 26/2, 14:15-16:00  | REALF A053    	      |  	                                    |      |
-|                          | Thursday 5/3, 14:15-16:00   | REALF A053   		      | Ernie Roby-Tomic			                                | Game assests 		  |
-| Lecture 4                | Thursday 12/3,	14:15-16:00	 | REALF A053    	        |                       |   |
+|  Lecture 4                       | Thursday 5/3, 14:15-16:00   | REALF A053   		      | Ernie Roby-Tomic			                                | Game assests 		  |
+|                | Thursday 12/3,	14:15-16:00	 | REALF A053    	        |                       |   |
 |                          | Friday 13/3,**08:15-16:00** | TEKNOBYGGET 2.019   | Full-day workshop                     |      |
 | Submission Deadline      | Thursday 19/3,	14:15-16:00	 | REALF A053	            | 	                                    | **Milestone 3 Submission Deadline** |
 | Playtest Presentation 3  | Tuesday 24/3, 09:15-12:00   | ILP 1.007              |                                       | **Milstone 3 Presentation**         |
