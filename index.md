@@ -65,7 +65,7 @@ In addition to being evaluated on the successful completion of the game you will
 |                          | Thursday 26/2, 14:15-16:00  | REALF A053    	      |  	                                    |      |
 | Lecture 4                | Thursday 5/3, 14:15-16:00   | REALF A053   		      | Ernie Roby-Tomic			                                | Game assests 		  |
 |                          | Thursday 12/3,	14:15-16:00	 | REALF A053    	        |                       |   |
-|                          | Friday 13/3,**09:15-15:00** | TEKNOBYGGET 2.019   | Full-day workshop                     |      |
+|                          | ~~Friday 13/3,09:15-15:00~~ | ~~TEKNOBYGGET 2.019~~   | ~~Full-day workshop~~ **Cancelled**                     |      |
 | Submission Deadline      | Thursday 19/3,	14:15-16:00	 | REALF A053	            | 	                                    | **Milestone 3 Submission Deadline** |
 | Playtest Presentation 3  | Tuesday 24/3, 09:15-12:00   | ILP 1.007              |                                       | **Milstone 3 Presentation**         |
 | Lecture 5			           | Thursday 26/3,	14:15-16:00	 | REALF A053	            | Henriette Myrlund	                    | Juicing |
