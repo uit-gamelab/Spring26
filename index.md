@@ -75,7 +75,7 @@ In addition to being evaluated on the successful completion of the game you will
 | Playtest Presentation 4  | Tuesday 28/4, 09:15-12:00   | ILP 2.072              |                                       | **Milestone 4 Presentation** |
 | Lecture 8			           | Thursday 30/4,	15:00-15:45	 | Teams	                | Anna Dranovska	                      | Funding opportunities for students  |
 | 			                   | Thursday 7/5,	14:15-16:00  | REALF A053	            |     		                              |  |
-| Submission Deadline		   | Monday 11/5                |           3	            |     		                              | **Reflection Note** |
+| Submission Deadline		   | Monday 11/5                |           	            |     		                              | **Reflection Note** |
 | Submission Deadline      | Thursday 21/5,	14:15-16:00	 | REALF A053	            | 	                                    | **Milestone 5 deadline** |
 | Playtest Presentation 5  | Friday 22/5, 09:00-12:00    | ILP 1.006              |                                       | **Milstone 5 Presentation** |
 | Deadline exam            | Monday 1/6, 14:00	         | Exam             |   |
